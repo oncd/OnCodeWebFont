@@ -1,0 +1,10 @@
+﻿@charset "utf-8";
+@font-face {
+ font-family: 'NanumBarunGothicWebUltraLight';
+ src: url(NanumBarunGothicWebUltraLight.eot);
+ src: url(NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
+      url(NanumBarunGothicWebUltraLight.woff) format('woff'),
+      url(NanumBarunGothicWebUltraLight.ttf) format('truetype');
+	  src:local(※), url(NanumBarunGothicWebUltraLight.woff) format('woff');
+}
+
