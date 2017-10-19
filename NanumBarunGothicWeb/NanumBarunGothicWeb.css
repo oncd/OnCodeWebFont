@@ -1,10 +1,30 @@
 ﻿@charset "utf-8";
 @font-face {
- font-family: 'NanumBarunGothicWeb';
- src: url(NanumBarunGothicWeb.eot);
- src: url(NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
-      url(NanumBarunGothicWeb.woff) format('woff'),
-      url(NanumBarunGothicWeb.ttf) format('truetype');
-	  src:local(※), url(NanumBarunGothicWeb.woff) format('woff');
+	 font-family: 'NanumBarunGothicWeb';
+	 font-weight: 300;
+	 src:url(NanumBarunGothicWebUltraLight.eot);
+	 src:url(NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
+		 url(NanumBarunGothicWebUltraLight.woff) format('woff'),
+		 url(NanumBarunGothicWebUltraLight.ttf) format('truetype');
+	 src:local(※), url(NanumBarunGothicWebUltraLight.woff) format('woff');
 }
+@font-face {
+	 font-family: 'NanumBarunGothicWeb';
+	 font-weight: 400;
+	 src:url(NanumBarunGothicWeb.eot);
+	 src:url(NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
+		 url(NanumBarunGothicWeb.woff) format('woff'),
+		 url(NanumBarunGothicWeb.ttf) format('truetype');
+	 src:local(※), url(NanumBarunGothicWeb.woff) format('woff');
+}
+@font-face {
+	 font-family: 'NanumBarunGothicWeb';
+	 font-weight: 700;
+	 src:url(NanumBarunGothicWebBold.eot);
+	 src:url(NanumBarunGothicWebBold.eot?#iefix) format('embedded-opentype'),
+		 url(NanumBarunGothicWebBold.woff) format('woff'),
+		 url(NanumBarunGothicWebBold.ttf) format('truetype');
+	 src:local(※), url(NanumBarunGothicWebBold.woff) format('woff');
+}
+
 
