@@ -1,0 +1,12 @@
+﻿@charset "utf-8";
+@font-face {
+	 font-family: 'NanumBarunpen';
+	 src: url(./NanumBarunpenR.eot);
+	 src: url(./NanumBarunpenR.eot?#iefix) format('embedded-opentype'),
+		  url(./NanumBarunpenR.woff) format('woff'),
+		  url(./NanumBarunpenR.ttf) format('truetype');
+	 src: local(※), url(./NanumBarunpenR.woff) format('woff');
+}
+
+
+
